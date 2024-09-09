@@ -1,0 +1,10 @@
+{
+	"id": "Botanist",
+	"name": "The Botanist",
+	"description": "Harnessing the power of flora, the Botanist departs on an expedition.",
+	"features": {
+		"color": "62ac90",		
+		"select_menu_scene": "Slugcat_Botanist",
+		"select_menu_scene_ascended": "Ghost_Botanist",
+	}
+}
